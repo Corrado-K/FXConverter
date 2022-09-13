@@ -1,7 +1,4 @@
-import { Combobox } from '@headlessui/react'
-import { useState } from 'react';
-import { ChevronDownIcon, ArrowsRightLeftIcon } from "@heroicons/react/24/outline";
-import { getCurrencies } from '../services/demo';
+import { ArrowsRightLeftIcon } from "@heroicons/react/24/outline";
 
 const CurrencySearchInput = () => {
 

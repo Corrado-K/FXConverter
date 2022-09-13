@@ -1,9 +1,9 @@
 import CurrencySearchInput from "../components/CurrencySearchInput";
 import ResultCard from "../components/ResultCard";
-import { ArrowsRightLeftIcon } from "@heroicons/react/24/outline";
-import { useEffect } from "react";
-import { getConfig } from "@testing-library/react";
-import { getCurrencies } from "../services/demo";
+// import { ArrowsRightLeftIcon } from "@heroicons/react/24/outline";
+// import { useEffect } from "react";
+// import { getConfig } from "@testing-library/react";
+// import { getCurrencies } from "../services/demo";
 
 
 const Home = () => {     

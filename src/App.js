@@ -1,6 +1,6 @@
 import './index.css';
 import Home from './pages/Home';
-import { fetchExchangeRates } from './services/demo';
+// import { fetchExchangeRates } from './services/demo';
 
 
 
